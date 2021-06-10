@@ -38,7 +38,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>arul-27may2021</username>
 						<password>Welcome@2@</password>
-						<applicationName>ci-cd-demo</applicationName>
+						<applicationName>cicddemo</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
