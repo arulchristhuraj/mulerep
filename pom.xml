@@ -37,7 +37,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
 						<username>arul-27may2021</username>
-						<password>Mulesoft1$</password>
+						<password>Welcome@2@</password>
 						<applicationName>ci-cd-demo</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
