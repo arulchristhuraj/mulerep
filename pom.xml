@@ -42,6 +42,8 @@
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
+						<businessGroup>techlightning</businessGroup>
+						<workers>1</workers>
 					</cloudHubDeployment>
 				</configuration>
 
