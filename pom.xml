@@ -45,7 +45,7 @@
 						<businessGroup>techlightning</businessGroup>
 						<workers>1</workers>
 					</cloudHubDeployment>
-					<classifer>mule-application</classifier>
+					<classifier>mule-application</classifier>
 				</configuration>
 
 			</plugin>
